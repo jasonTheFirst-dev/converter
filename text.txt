@@ -1,0 +1,38 @@
+// let base2 = function convertBase() {
+//       let num = Number(base.value);
+//       if (!num) {
+//             return;
+//           } else {
+//         return num.toString(2);
+//   }
+// }
+// alert(convertBase(value));
+// function createDiv() {
+//   let div = document.createElement("div");
+//   div.className = "alert";
+//   let num = Number(base.value);
+//   if (!num) {
+//     return;
+//   } else {
+//     div.innerHTML = num.toString(2);
+//   }
+//   body.append(div);
+// }
+
+// outputContainer.forEach(con => {
+  
+  
+// });
+
+ // let value = base.value
+  // console.log(value);
+
+
+
+  console.log(meanBtnValue.split(",").length);
+
+
+
+
+    let value = [meanInput.value];
+console.log(value.join(",").split(",").length);

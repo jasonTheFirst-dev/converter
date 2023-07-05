@@ -1,0 +1,17 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "mini project on practie",
+  "main": "codes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon codes.js"
+  },
+  "author": "jason oluseyi",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.19",
+    "npm": "^8.19.1"
+  }
+}
