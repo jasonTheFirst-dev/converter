@@ -1,0 +1,3 @@
+## CONVERTER
+
+#This is a multi-purpose tool that offers several useful functions. It enables users to generate strong passwords, convert decimal numbers to binary (base 2), and perform mathematical calculations such as finding the mean, median, and mode. With an intuitive user interface created using HTML and CSS, users can input values, select options, and view the results. The converter's functionality is powered by JavaScript, which handles the logic behind password generation, number conversion, and mathematical calculations. Overall, this converter provides a versatile and practical solution for password generation and mathematical operations in an accessible web-based format.
